@@ -1,0 +1,9 @@
+{
+    "base_url": "https://openlibrary.org/subjects/",
+    "subject": "sports",
+    "limit": 1000,
+    "offset": 0,
+    "details": true,
+    "ebook": false
+  }
+  

@@ -1,0 +1,4 @@
+/lambda_function.py  # Main Lambda handler file
+/config.json         # Configuration file
+/requirements.txt    # Dependencies file
+/package/            # Directory containing all dependencies

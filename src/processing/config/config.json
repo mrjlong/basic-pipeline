@@ -1,0 +1,24 @@
+{
+    "dataframe_columns": {
+      "available": [
+        "key", "title", "edition_count", "cover_id", "cover_edition_key",
+        "subject", "ia_collection", "lendinglibrary", "printdisabled",
+        "lending_edition", "lending_identifier", "first_publish_year", "ia",
+        "public_scan", "has_fulltext", "author_keys", "author_names",
+        "availability_status", "availability_available_to_browse",
+        "availability_available_to_borrow", "availability_available_to_waitlist",
+        "availability_is_printdisabled", "availability_is_readable",
+        "availability_is_lendable", "availability_is_previewable",
+        "availability_identifier", "availability_isbn", "availability_oclc",
+        "availability_openlibrary_work", "availability_openlibrary_edition",
+        "availability_last_loan_date", "availability_num_waitlist",
+        "availability_last_waitlist_date", "availability_is_restricted",
+        "availability_is_browseable", "availability___src__",
+        "availability_error_message"
+      ],
+      "include": [
+        "key", "title", "first_publish_year", "author_keys", "author_names"
+      ]
+    }
+  }
+  
