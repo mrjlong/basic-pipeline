@@ -6,6 +6,7 @@ This project is an ETL pipeline that fetches, processes, and stores data from th
 ## Structure
 - `src`: Source code for the project.
   - `api`: Module for API interactions.
+  - `data-output`: Output files for requirements (3,4) from the assignment.
   - `database`: (Future implementation) Database interactions.
   - `processing`: Data processing modules.
   - `utils`: Utility functions and configurations.
@@ -24,5 +25,5 @@ Execute the pipeline by running `python src/main.py`.
 - Python 3.x
 - Pandas
 - Requests
-- Boto3 (for AWS Parameter Store)
+- Boto3 (for AWS Parameter Store & AWS)
 
